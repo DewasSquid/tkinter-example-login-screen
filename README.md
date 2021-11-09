@@ -3,7 +3,7 @@
 ## Features
 <li> A login panel
 <li> Custom widgets
-<li> Animations
+<li> 10 social credits
 
 #
 
