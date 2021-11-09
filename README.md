@@ -1,6 +1,7 @@
 ### This is an open source and free to use Tkinter front-end example project showcasing a login screen.
 
-## Features of the login panel
+
+## Features
 <li> Custom widgets
 <li> Responsive design
 <li> 10 social credits
