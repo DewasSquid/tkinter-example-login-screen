@@ -15,7 +15,7 @@ Contain all images used for the customs widgets
 Used to place the login panel on screen
 > "panel_module.py"
 
-main file, define the tkinter window
+main file
 > "main.py" 
 
   
