@@ -5,7 +5,7 @@ from os import system
 
 def LoginPanel(self):
         """
-        Place the login interface in the left of the screen
+        Place the login interface on the left of the screen
         Args :
             self : Instance of the parent class
         """
