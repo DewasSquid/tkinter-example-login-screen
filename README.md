@@ -1,7 +1,7 @@
 ### **Tkinter Thing** is an open source and free to use Tkinter front-end example project. 
 
 ## Features
-<li> A login pannel
+<li> A login panel
 <li> Custom widgets
 <li> Animations
 
